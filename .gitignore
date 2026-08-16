@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
